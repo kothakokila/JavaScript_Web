@@ -10,7 +10,7 @@ This repository contains two simple web-based games implemented using JavaScript
 
 ## Introduction
 
-Welcome to the JavaScript Games Collection! This repository includes two classic games built using HTML, CSS, and JavaScript. Feel free to explore, modify, and improve the games.
+Welcome to the JavaScript Games Collection! This repository includes two classic games built using HTML, CSS, and JavaScript. 
 
 ## Rock Paper Scissors
 
